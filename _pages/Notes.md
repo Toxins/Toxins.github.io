@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This a evolving [note](pdfs/Notes for "The Yang-Mills equation over riemann surface".pdf) for "The Yang-Mills equation over riemann surfaces".
+This a evolving [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) for "The Yang-Mills equation over riemann surfaces".
