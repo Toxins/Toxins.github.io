@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-/**This is the complete [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) version of this page.*/
+/**This is the complete [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) version of this page.
 
 Education
 ======
