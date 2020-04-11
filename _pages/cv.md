@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-%This is the complete [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) version of this page.%
+(*This is the complete [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) version of this page.*)
+
 Education
 ======
 * B.S. in School of Mathematical Sciences, University of Science and Technology of China, 2021(expected)
@@ -19,7 +20,7 @@ Education
 Interesets
 ======
 * Differential Geometry
-* Modular Forms
+* Algebra
   
 Teaching Assistant
 ======
