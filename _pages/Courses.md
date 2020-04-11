@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-These are all mathematics courses and programs which I've taken at USTC (Till Fall-2020).
+These are all mathematics courses which I take at USTC (Till Fall-2020).
 
 ("*"means this is a graduate level course)
 
@@ -38,14 +38,18 @@ These are all mathematics courses and programs which I've taken at USTC (Till Fa
 
 **Junior Year(Fall-2019)**
 
-|               Courses           | Grades |
-| :-----------------------------: | :----: |
-|     Functional Analysis (H)     |   95   |
-|    Advanced Real Analysis *     |   93   |
-|    Differential Geometry (H)    |   90   |
-|    Differential Manifold *      |   98   |
-|       Algebraic Topology *      |   100  |
-| Representaions of Lie Algebra * |   95   |
-|            Algebra *            |   94   |
-|       Homological Algebra *     |   92   |
-|   Commutative Algebra * (Audit) |   --   |
+|                     Courses                  | Grades |
+| :------------------------------------------: | :----: |
+|              Functional Analysis (H)         |   95   |
+|             Advanced Real Analysis *         |   93   |
+|             Differential Geometry (H)        |   90   |
+|              Differential Manifold *         |   98   |
+|                Algebraic Topology *          |   100  |
+|         Representaions of Lie Algebra *      |   95   |
+|                   Algebra *                  |   94   |
+|            Homological Algebra *             |   92   |
+|         Commutative Algebra * (Audit)        |   --   |
+|       Complex Geometry* (this semester)      |   --   |
+|     Riemannian Geometry* (this semester)     |   --   |
+|    Algebraic Number Theory* (this semester)  |   --   |
+| Differential Equations II(H) (this semester) |   --   |
