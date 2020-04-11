@@ -11,8 +11,7 @@ redirect_from:
 **About Me**
 I am an undergraduate student in School of Mathematical Sciences, USTC, and I will graduate in 2021.
 
-These days I am reading "Yang-Mills Equation over Riemann Surfaces".
-
+I am focusing on complex geometry in these semester. And I resolve to take reading the proof of Calabi-Yau theorem by continuos method as my final project of Complex Geometry.
 
 
 
