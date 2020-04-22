@@ -11,4 +11,4 @@ redirect_from:
 
 This an evolving [note](https://Toxins.github.io/pdfs/NotesforYangmills.pdf) for "The Yang-Mills equation over riemann surfaces"(update to Morse Theory).
 
-This is a partial [note](https://Toxins.github.io/pdfs/huaseminar.pdf) of Hua seminar 
+This the compelete report of my HUA Seminar [note](https://Toxins.github.io/pdfs/huaseminar.pdf). 
