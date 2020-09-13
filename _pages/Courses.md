@@ -10,7 +10,7 @@ author_profile: true
 
 These are all mathematics courses which I take at USTC (Till Fall-2020).
 
-("*"means this is a graduate level course)
+("*"means this is a graduate level course,"**" for doctoral)
 
 **Freshman Year**
 
@@ -36,7 +36,7 @@ These are all mathematics courses which I take at USTC (Till Fall-2020).
 |                 Probability Theory                 |   95   |
 |                   Real Analysis (H)                |   96   |
 
-**Junior Year(Fall-2019)**
+**Junior Year**
 
 |                     Courses                  | Grades |
 | :------------------------------------------: | :----: |
@@ -49,7 +49,17 @@ These are all mathematics courses which I take at USTC (Till Fall-2020).
 |                   Algebra *                  |   94   |
 |            Homological Algebra *             |   92   |
 |         Commutative Algebra * (Audit)        |   --   |
-|       Complex Geometry* (this semester)      |   --   |
-|     Riemannian Geometry* (this semester)     |   --   |
-|    Algebraic Number Theory* (this semester)  |   --   |
-| Differential Equations II(H) (this semester) |   --   |
+|                  Complex Geometry*           |   88   |
+|                 Riemannian Geometry*         |   100  |
+|           Differential Equations II(H)       |   97   |
+
+**Senior Year**
+
+|                     Courses                       | Grades |        Remark        |
+| :-----------------------------------------------: | :----: |                      |
+|               Analytic Geometry                   | :----: |                      |
+|      Introduction to Algebraic Geometry *         | :----: |                      |
+|Nonlinear elliptic partial differential equations *| :----: |                      |
+|                Topics in Analysis **              | :----: |Semiclassical Analysis|
+|                Geometric Analysis *               | :----: |                      |
+
