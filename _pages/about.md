@@ -10,7 +10,7 @@ redirect_from:
 
 **About Me**
 
-This is Dashen Yan'sHomepage. I am an undergraduate student majoring in Mathematics-Pure math Honered track at University of Science and Technology of China(USTC)
+This is Dashen Yan's Homepage. I am an undergraduate student majoring in Mathematics-Pure math Honered track at University of Science and Technology of China(USTC)
 And I expect to graduate in 2021.
 
 My main interest inculdes Differential Geometry, Geometric Analysis and Hodge Theory. And I am working on some topics related to Mirror Symmetry.
