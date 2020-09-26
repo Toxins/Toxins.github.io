@@ -13,13 +13,14 @@ redirect_from:
 Education
 ======
 * B.S. in School of Mathematical Sciences, University of Science and Technology of China, 2021(expected)
-  * Overall GPA: 4.02/4.30
-  * Weighted Average: 92.3/100.0
+  * Overall GPA: 4.03/4.30
+  * Weighted Average: 92.54/100.0
 
 Interesets
 ======
 * Differential Geometry
-* Algebra
+* Hodge Theory
+* Geometric Analysis
   
 Teaching Assistant
 ======
