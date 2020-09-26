@@ -8,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-These are all mathematics courses which I take at USTC (Till Fall-2020).
+These are all mathematics courses which I took/am taking at USTC.
 
-("*"means this is a graduate level course,"**" for doctoral)
+("*"means this is a graduate level course,"* *" for doctoral)
 
 **Freshman Year**
 
@@ -60,6 +60,6 @@ These are all mathematics courses which I take at USTC (Till Fall-2020).
 |               Analytic Geometry                   | :----: |                      |
 |      Introduction to Algebraic Geometry *         | :----: |                      |
 |Nonlinear elliptic partial differential equations *| :----: |                      |
-|                Topics in Analysis **              | :----: |Semiclassical Analysis|
+|                Topics in Analysis * *             | :----: |Semiclassical Analysis|
 |                Geometric Analysis *               | :----: |                      |
 
