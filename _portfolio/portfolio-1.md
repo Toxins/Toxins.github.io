@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Gadgets Designed by Mathematica"
+excerpt: "Course works of "frontiers and Practices of Engineering Science" <br/><img src='/images/imagegalaxy'>"
 collection: portfolio
 ---
 
