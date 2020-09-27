@@ -1,11 +1,9 @@
 ---
-title: "Gadgets Designed by Mathematica"
-excerpt: "Course works of "frontiers and Practices of Engineering Science" <br/><img src='/images/imagegalaxy.jpg'>"
+title: "Kitties in USTC"
+excerpt: "An evolving Gallery of kitties in USTC <br/><img src='/images/imageustccat1.jpg'>"
 collection: portfolio
 ---
 
-<br/><img src='/images/imagegalaxy.jpg'>
-The Milky way galaxy made by laser internal engraving. I used a photo of the Galaxy from nasa.gov, and reconstructed the 3D-model via Mathematica and CAD.
-
-<br/><img src='/images/imageJuliaset.jpg'>
-Designed via Mathematica and made by WEDM.
+<br/><img src='/images/imageustccat1.jpg'>"
+<br/><img src='/images/imageustccat2.jpg'>"
+<br/><img src='/images/imageustccat3.jpg'>"
